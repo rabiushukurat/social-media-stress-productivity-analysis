@@ -16,7 +16,7 @@ to uncover how daily behaviors impact stress levels and productivity scores.
 
 ## Dashboard
 [View Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/shukurat.rabiu/viz/SocialMediaStressProductivityAnalysis/Dashboard1?publish=yes)
-![Power BI Dashboard Analysis](Screenshot (404).png)
+[View Power BI Dashboard](https://github.com/rabiushukurat/social-media-stress-productivity-analysis/blob/main/powerbi/Screenshot%20(404).png)
 
 ## Dataset
 Source: Kaggle — Social Media Sleep Stress Productivity Dataset
