@@ -6,7 +6,7 @@ to uncover how daily behaviors impact stress levels and productivity scores.
 
 ## Tools Used
 - Microsoft Excel (data cleaning, pivot tables, analysis)
-- Tableau Public (data visualization, dashboard)
+- Tableau Public (data visualisation, dashboard)
 - Power BI (dashboard rebuild to demonstrate cross-tool proficiency)
 
 ## Key Insights
